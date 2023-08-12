@@ -16,3 +16,19 @@ Automate the fault detection process, which can save money on labor costs.
 
 ##### Objective
 Advanced analytics, monitoring and cleaning solar panels is a crucial task, hence developing an optimal procedure to monitor and clean these panels is very important in order to increase modules efficiency, reduce maintenance cost and reducing the use of resources. The accumulation of dust, snow, bird drops, shadow etc. on the surface of solar panels reduces the efficiency of the solar modules and hence the amount of produced energy.
+
+Dataset contains 6 different class folders of images contains-
+
+https://www.kaggle.com/datasets/electricalengineers/faulty-solar-panels-detection
+
+Bird-drop: This directory has images of bird-drop on solar panels
+
+Clean: This directory has images of clean solar panels
+
+Dusty: This directory has images of dusty solar panels
+
+Electrical-damage: This directory has images of electrical-damage solar panels
+
+Physical-Damage: This directory has images of physical-damage solar panels
+
+Snow-Covered: This directory has images of snow-covered on solar panels
